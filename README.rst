@@ -76,7 +76,7 @@ Add ``cmsplugin_carousel`` to your ``INSTALLED_APPS``.
 Usage
 =====
 
-Add a `Carousel` plugin to one of your placeholders. You can then add abritrary
+Add a `Carousel` plugin to one of your placeholders. You can then add arbitrary
 child plugins which will be displayed as carousel items.
 
 A `Carousel Caption` plugin is also provided.
